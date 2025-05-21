@@ -1,19 +1,33 @@
-[
-  [
-    {
-      "labelCode": "WQ02_LABEL20250414000021",
-      "selectedRadio": "WQ02_LABEL20250414000024",
-      "children": [{ "labelCode": "WQ02_LABEL20250414000024", "children": [] }]
-    },
-    {
-      "labelCode": "WQ02_LABEL20250414000007",
-      "selectedRadio": "WQ02_LABEL20250414000020",
-      "children": [{ "labelCode": "WQ02_LABEL20250414000020", "children": [] }]
-    },
-    {
-      "labelCode": "WQ02_LABEL20250414000001",
-      "selectedRadio": "WQ02_LABEL20250414000003",
-      "children": [{ "labelCode": "WQ02_LABEL20250414000003", "children": [] }]
-    }
-  ]
-]
+{
+  "data": {
+    "civetno": "X2008399",
+    "realname": "鄒家平",
+    "sex": "男",
+    "nickname": "邹家平",
+    "area": "龍華",
+    "sign": "",
+    "icon": "",
+    "country": "CN",
+    "suborg": "中央單位",
+    "bg": "中央單位",
+    "bu": "中央資訊",
+    "grade": "資訊系統作業",
+    "grade_depart": "資訊科技",
+    "company": "富泰華工業（深圳）有限公司",
+    "cost_code": "DAAA2700H7",
+    "birthdate": "2001/12/05",
+    "edu_degree": "本科A",
+    "class": "師2",
+    "job_title": "工程師",
+    "job_status": "在職",
+    "hiredate": "2024-07-12",
+    "leavedate": "",
+    "civetid": "",
+    "mobile": "\u002B8618779426261",
+    "email": "jia-ping.zou@foxconn.com",
+    "bg_code": "BU011",
+    "sip_num": "506085540"
+  },
+  "code": 200,
+  "msg": "OK"
+}
