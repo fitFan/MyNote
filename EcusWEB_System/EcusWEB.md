@@ -10,7 +10,7 @@ WEBCUS 数据库：
 
 - WZC_FILE  法人关务代码的连接信息
 
-  ![ECUSII.WZC_FILE表](D:\Notes\EcusWEB_System\images\ECUSII.WZC_FILE表.png)
+  ![ECUSII.WZC_FILE表](.\images\ECUSII.WZC_FILE表.png)
 
 -  WZO_FILE 法人表 
 
